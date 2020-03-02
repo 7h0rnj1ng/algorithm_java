@@ -1,5 +1,3 @@
-import java.security.ProtectionDomain;
-
 public class Solution005 {
     public String replaceSpace(StringBuffer str) {
         /* 统计出空格的个数*/
@@ -32,7 +30,7 @@ public class Solution005 {
     public static void main(String[] args) {
 
         StringBuffer str = new StringBuffer();
-        str.append("we are family ");
+        str.append("hello world ! ");
         Solution005 solution = new Solution005();
         System.out.print(solution.replaceSpace(str));
 
