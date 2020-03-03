@@ -1,4 +1,4 @@
-public class Solution005 {
+public class Solution002 {
     public String replaceSpace(StringBuffer str) {
         /* 统计出空格的个数*/
         int spacenum = 0;
@@ -7,7 +7,7 @@ public class Solution005 {
                 spacenum++;
             }
         }
-        /*讲str设置为新长度的字符串，设置两个指针，从后向前复制*/
+        /*将str设置为新长度的字符串，设置两个指针，从后向前复制*/
         int oldstrlength = str.length();
         int newstrlenlength = oldstrlength+spacenum*2;
         str.setLength(newstrlenlength);
@@ -31,7 +31,7 @@ public class Solution005 {
 
         StringBuffer str = new StringBuffer();
         str.append("hello world ! ");
-        Solution005 solution = new Solution005();
+        Solution002 solution = new Solution002();
         System.out.print(solution.replaceSpace(str));
 
     }

@@ -1,4 +1,4 @@
-public class Solution004 {
+public class Solution001 {
 
 
     /**
@@ -31,7 +31,7 @@ public class Solution004 {
     public static void main(String[] args) {
         int[][] arrays = new int[][]{{1, 3, 5, 7}, {2, 4, 6, 7}, {4, 6, 8, 10}, {7, 9, 12, 20}};
         int target = 9;
-        Solution004 solution004 = new Solution004();
-        System.out.println(solution004.Find(target, arrays));
+        Solution001 solution001 = new Solution001();
+        System.out.println(solution001.Find(target, arrays));
     }
 }
