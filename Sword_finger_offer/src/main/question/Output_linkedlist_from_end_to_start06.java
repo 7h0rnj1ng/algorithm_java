@@ -1,7 +1,7 @@
 
 import java.util.ArrayList;
 
-public class Solution003 {
+public class Output_linkedlist_from_end_to_start06 {
     /*创建内部类*/
     private static class ListNode {
         int val;
@@ -31,13 +31,13 @@ public class Solution003 {
     }
 
     public static void main(String[] args) {
-        Solution003 solution003 = new Solution003();
+        Output_linkedlist_from_end_to_start06 outputlinkedlistfromendtostart06 = new Output_linkedlist_from_end_to_start06();
         ListNode l1 = new ListNode(1);
         ListNode l2 = new ListNode(2);
         ListNode l3 = new ListNode(3);
         l1.next = l2;
         l2.next = l3;
-        for (int i : solution003.printListFromTailToHead(l1)) {
+        for (int i : outputlinkedlistfromendtostart06.printListFromTailToHead(l1)) {
             System.out.print(i + " ");
         }
     }

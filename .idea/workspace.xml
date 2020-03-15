@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4b647c7-86b3-4610-9b3e-21de2ab4b420" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Sword_finger_offer/src/main/question/Solution004.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sword_finger_offer/src/main/question/Solution004.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sword_finger_offer/src/main/question/Solution001.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sword_finger_offer/src/main/question/Lookup_in_a_two_dimensional_array04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sword_finger_offer/src/main/question/Solution002.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sword_finger_offer/src/main/question/Replace_spaces05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sword_finger_offer/src/main/question/Solution003.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sword_finger_offer/src/main/question/Output_linkedlist_from_end_to_start06.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,16 +74,16 @@
       <recent name="$PROJECT_DIR$/Sword_finger_offer/src/main" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution003">
-    <configuration name="Solution001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution001" />
+  <component name="RunManager" selected="Application.Output_linkedlist_from_end_to_start06">
+    <configuration name="Lookup_in_a_two_dimensional_array04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lookup_in_a_two_dimensional_array04" />
       <module name="Sword_finger_offer" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution003" />
+    <configuration name="Output_linkedlist_from_end_to_start06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Output_linkedlist_from_end_to_start06" />
       <module name="Sword_finger_offer" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,9 +98,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution003" />
+        <item itemvalue="Application.Output_linkedlist_from_end_to_start06" />
         <item itemvalue="Application.Solution005" />
-        <item itemvalue="Application.Solution001" />
+        <item itemvalue="Application.Lookup_in_a_two_dimensional_array04" />
       </list>
     </recent_temporary>
   </component>
@@ -127,6 +130,8 @@
       <workItem from="1583239010747" duration="2161000" />
       <workItem from="1583242061733" duration="8000" />
       <workItem from="1583242101009" duration="1738000" />
+      <workItem from="1583389163242" duration="1872000" />
+      <workItem from="1584256520550" duration="1018000" />
     </task>
     <task id="LOCAL-00001" summary="创建文件仓库">
       <created>1583161602830</created>
@@ -182,10 +187,11 @@
       <screen x="0" y="23" width="1680" height="955" />
     </state>
     <state x="0" y="23" width="1680" height="955" key="#Project_Structure/0.23.1680.955@0.23.1680.955" timestamp="1583241869512" />
-    <state x="327" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583240918003">
-      <screen x="0" y="23" width="1680" height="955" />
+    <state x="2054" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584257586555">
+      <screen x="1680" y="23" width="1920" height="1057" />
     </state>
     <state x="327" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1680.955@0.23.1680.955" timestamp="1583240918003" />
+    <state x="2054" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1680.23.1920.1057/0.23.1680.955@1680.23.1920.1057" timestamp="1584257586555" />
     <state x="370" y="100" key="CommitChangelistDialog2" timestamp="1583165849178">
       <screen x="0" y="23" width="1680" height="955" />
     </state>
@@ -230,10 +236,10 @@
       <screen x="0" y="23" width="1680" height="955" />
     </state>
     <state x="440" y="229" key="Vcs.Push.Dialog.v2/0.23.1680.955@0.23.1680.955" timestamp="1583165858762" />
-    <state x="517" y="333" key="com.intellij.ide.util.TipDialog" timestamp="1583242100657">
+    <state x="517" y="333" key="com.intellij.ide.util.TipDialog" timestamp="1583389167173">
       <screen x="0" y="23" width="1680" height="955" />
     </state>
-    <state x="517" y="333" key="com.intellij.ide.util.TipDialog/0.23.1680.955@0.23.1680.955" timestamp="1583242100657" />
+    <state x="517" y="333" key="com.intellij.ide.util.TipDialog/0.23.1680.955@0.23.1680.955" timestamp="1583389167173" />
     <state x="516" y="299" key="git4idea.merge.GitPullDialog" timestamp="1583161824773">
       <screen x="0" y="23" width="1680" height="955" />
     </state>

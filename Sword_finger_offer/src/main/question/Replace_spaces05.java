@@ -1,4 +1,9 @@
-public class Solution002 {
+public class Replace_spaces05 {
+    /**
+     *
+     * @param str
+     * @return
+     */
     public String replaceSpace(StringBuffer str) {
         /* 统计出空格的个数*/
         int spacenum = 0;
@@ -31,7 +36,7 @@ public class Solution002 {
 
         StringBuffer str = new StringBuffer();
         str.append("hello world ! ");
-        Solution002 solution = new Solution002();
+        Replace_spaces05 solution = new Replace_spaces05();
         System.out.print(solution.replaceSpace(str));
 
     }

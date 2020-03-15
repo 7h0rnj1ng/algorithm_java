@@ -1,4 +1,4 @@
-public class Solution001 {
+public class Lookup_in_a_two_dimensional_array04 {
 
 
     /**
@@ -31,7 +31,7 @@ public class Solution001 {
     public static void main(String[] args) {
         int[][] arrays = new int[][]{{1, 3, 5, 7}, {2, 4, 6, 7}, {4, 6, 8, 10}, {7, 9, 12, 20}};
         int target = 9;
-        Solution001 solution001 = new Solution001();
+        Lookup_in_a_two_dimensional_array04 solution001 = new Lookup_in_a_two_dimensional_array04();
         System.out.println(solution001.Find(target, arrays));
     }
 }
